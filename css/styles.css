@@ -140,15 +140,18 @@ a:hover {
     width: 25%;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
+    color: #06113C;
 }
 
 .dd-caption  {
   font-family: 'Open Sans', sans-serif;
+  color: #06113C;
 
 }
 
 .pizza-talks  {
   font-family: 'Open Sans', sans-serif;
+  color: #06113C;
 
 }
 
@@ -156,6 +159,7 @@ a:hover {
   width: 40%;
   margin: 40px auto 60px;
   font-family: 'Open Sans', sans-serif;
+  color: #06113C;
 }
 
 .btn {
