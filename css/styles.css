@@ -102,6 +102,7 @@ a:hover {
   margin-bottom: 30px;
   height:300px;
   width:300px;
+  object-position: 100% 10%;
 }
 
 .Skills {
