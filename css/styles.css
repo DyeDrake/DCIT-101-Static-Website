@@ -12,7 +12,7 @@ h1  {
     font-size: 5.62rem;
     position: relative;
     line-height: 2;
-    font-family:  'Sacramento', sans-serif;
+    font-family:  'Sacramento';
 
 }
 h2  {
@@ -34,7 +34,7 @@ hr  {
   border-bottom: none;
   width: 4%;
   margin: 90px auto;
-  margin-top: 100px;
+
 }
 
 a {
