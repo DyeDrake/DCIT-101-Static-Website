@@ -99,8 +99,8 @@ a:hover {
   width: 20%;
   float: right;
   margin-left: 30px;
-  height: 500px;
-  width: 500px;
+  height:auto;
+  width: auto;
 }
 
 .Skills {
