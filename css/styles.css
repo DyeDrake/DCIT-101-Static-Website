@@ -18,11 +18,11 @@ h1  {
 h2  {
     color:#345B63;
     font-size: 2.5rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat';
 }
 h3  {
     color: #345B63;
-    font-famlily: 'Montserrat', sans-serif;
+    font-famlily: 'Montserrat';
 }
 
 p {
@@ -33,7 +33,7 @@ hr  {
   border: dotted   grey 6px;
   border-bottom: none;
   width: 4%;
-  margin: 90px auto;
+  margin: 95px auto;
 }
 
 a {
