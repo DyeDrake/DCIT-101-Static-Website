@@ -139,23 +139,23 @@ a:hover {
 .hello-intro  {
     width: 25%;
     margin: auto;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'PT Mono', monospace;
 }
 
 .dd-caption  {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'PT Mono', monospace;
 
 }
 
 .pizza-talks  {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'PT Mono', monospace;
 
 }
 
 .contact-message  {
   width: 40%;
   margin: 40px auto 60px;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'PT Mono', monospace;
 }
 
 .btn {
