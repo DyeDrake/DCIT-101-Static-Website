@@ -100,9 +100,8 @@ a:hover {
   float: right;
   margin-left: 30px;
   margin-bottom: 30px;
-  height:300px;
-  width:300px;
-  object-position: 100% 10%;
+  height:340px;
+  width:340px;
 }
 
 .Skills {
@@ -113,7 +112,6 @@ a:hover {
       width: 50%;
       margin: 100px auto 100px auto;
       text-align: left;
-      max-resolution: 120px;
 }
 
 .bottom-container {
