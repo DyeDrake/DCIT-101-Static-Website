@@ -139,23 +139,23 @@ a:hover {
 .hello-intro  {
     width: 25%;
     margin: auto;
-    font-family: 'Special Elite', cursive;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .dd-caption  {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
 .pizza-talks  {
-  font-family: 'Special Elite', cursive;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
 .contact-message  {
   width: 40%;
   margin: 40px auto 60px;
-  font-family: 'Special Elite', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .btn {
