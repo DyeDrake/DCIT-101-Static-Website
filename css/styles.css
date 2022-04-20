@@ -81,7 +81,10 @@ a:hover {
 }
 
 .profile-img  {
-  width:  240px;
+  width:  auto;
+  height: auto;
+
+
 }
 
 .mountain  {
